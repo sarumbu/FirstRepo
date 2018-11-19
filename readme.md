@@ -1,1 +1,1 @@
-This is to learn the Source Control Management concepts
+This branch goes to QA for testing. All the changes in Dev branch does not necessarily get into this
